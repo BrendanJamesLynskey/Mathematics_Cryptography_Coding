@@ -2,8 +2,6 @@
 
 Interactive visualisations, presentation series, and explorations in pure mathematics, cryptography, and coding theory.
 
-**[View the index page](https://brendanjameslynskey.github.io/)**
-
 ---
 
 ## Cryptography
