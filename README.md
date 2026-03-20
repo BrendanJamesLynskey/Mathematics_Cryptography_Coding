@@ -1,4 +1,4 @@
-# Mathematics & Engineering
+# Mathematics and Engineering Applications
 
 Interactive visualisations, presentation series, and explorations in pure mathematics, cryptography, and coding theory.
 
