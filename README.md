@@ -177,6 +177,23 @@ Interactive single-page visualisations built with Plotly.js and vanilla HTML/CSS
 
 ---
 
+## Historical Physicists
+
+18 interactive presentations (17 slides each, all ✅ complete) on the lives, experiments, and theories of history's greatest physicists — from Galileo's telescopic revolution through Hawking's black hole thermodynamics, covering the scientific revolution, classical physics, the quantum revolution, and modern cosmology.
+
+### [Open the Historical Physicists Series](https://brendanjameslynskey.github.io/Historical_Physicists/)
+
+| # | Physicist | # | Physicist | # | Physicist |
+|---|---|---|---|---|---|
+| 01 | Galileo | 07 | Boltzmann | 13 | Schrödinger |
+| 02 | Kepler | 08 | Curie | 14 | Heisenberg |
+| 03 | Huygens | 09 | Planck | 15 | Dirac |
+| 04 | Newton | 10 | Rutherford | 16 | Fermi |
+| 05 | Faraday | 11 | Einstein | 17 | Feynman |
+| 06 | Maxwell | 12 | Bohr | 18 | Hawking |
+
+---
+
 ## License
 
 Educational use. Code examples provided as-is. Standards references are to publicly available NIST, IETF, and ISO documents.
