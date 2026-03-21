@@ -4,101 +4,6 @@ Interactive visualisations, presentation series, and explorations in pure mathem
 
 ---
 
-## Historical Mathematicians
-
-Interactive presentations on the lives, discoveries, and influence of 81 of history's greatest
-mathematicians — covering every figure in Bell's *Men of Mathematics*, Struik's *A Concise History*,
-and Stillwell's *Mathematics and Its History*, plus British, French, German, and Dutch figures
-whose names are attached to concepts every student encounters.
-
-### [Open the Historical Mathematicians Series](https://brendanjameslynskey.github.io/Historical_Mathematicians/)
-
-| # | Topic | Slides | Status |
-| --- | --- | --- | --- |
-| 01 | Pythagoras — Number, Harmony & the Irrational | 17 | ✅ Complete |
-| 02 | Zeno of Elea — Paradoxes of Motion & the Infinite | 17 | ✅ Complete |
-| 03 | Eudoxus of Cnidus — Exhaustion, Proportion & the Spheres | 17 | ✅ Complete |
-| 04 | Euclid — The Elements & the Axiomatic Method | 17 | ✅ Complete |
-| 05 | Archimedes — The Method, the Spiral & the Sand-Reckoner | 17 | ✅ Complete |
-| 06 | Apollonius of Perga — The Great Geometer & the Conics | 17 | ✅ Complete |
-| 07 | Diophantus — The Father of Algebra & the Arithmetica | 17 | ✅ Complete |
-| 08 | Brahmagupta — Zero, Negatives & the Cyclic Quadrilateral | 17 | ✅ Complete |
-| 09 | Al-Khwarizmi — The Algebra & the Algorithm | 17 | ✅ Complete |
-| 10 | Omar Khayyám — Cubics, Conics & the Calendar | 17 | ✅ Complete |
-| 11 | Alhazen — Optics, Integrals & the Scientific Method | 17 | ✅ Complete |
-| 12 | Fibonacci — The Liber Abaci & the Hindu-Arabic Revolution | 17 | ✅ Complete |
-| 13 | Cardano — The Ars Magna & the Cubic Solution | 17 | ✅ Complete |
-| 14 | Viète — The Birth of Symbolic Algebra | 17 | ✅ Complete |
-| 15 | Stevin — Decimal Fractions & the Democratisation of Arithmetic | 17 | ✅ Complete |
-| 16 | Napier — Logarithms & the Art of Computation | 17 | ✅ Complete |
-| 17 | Harriot — Inequality, Notation & the New World | 17 | ✅ Complete |
-| 18 | Descartes — Coordinates, Curves & La Géométrie | 17 | ✅ Complete |
-| 19 | Fermat — The Prince of Amateurs & the Last Theorem | 17 | ✅ Complete |
-| 20 | Pascal — The Triangle, the Wager & the Cycloid | 17 | ✅ Complete |
-| 21 | Wallis — The Arithmetica Infinitorum & the Road to Calculus | 17 | ✅ Complete |
-| 22 | Huygens — Pendulums, Probability & the Wave Theory | 17 | ✅ Complete |
-| 23 | Newton — Fluxions, the Principia & Universal Gravitation | 17 | ✅ Complete |
-| 24 | Leibniz — The Calculus, Binary & the Universal Characteristic | 17 | ✅ Complete |
-| 25 | De Moivre — The Formula, the Normal Curve & the Doctrine of Chances | 17 | ✅ Complete |
-| 26 | Taylor — Taylor Series & the Calculus of Finite Differences | 17 | ✅ Complete |
-| 27 | Stirling — The Approximation & the Methodus Differentialis | 17 | ✅ Complete |
-| 28 | Maclaurin — Series, Fluxions & the Defence of Newton | 17 | ✅ Complete |
-| 29 | The Bernoullis — A Dynasty of Mathematicians | 17 | ✅ Complete |
-| 30 | Euler — The Master of Us All | 17 | ✅ Complete |
-| 31 | d'Alembert — Waves, Mechanics & the Encyclopédie | 17 | ✅ Complete |
-| 32 | Bayes — Inverse Probability & the Foundations of Bayesian Inference | 17 | ✅ Complete |
-| 33 | Lambert — The Irrationality of π & Hyperbolic Functions | 17 | ✅ Complete |
-| 34 | Lagrange — Analytical Mechanics & the Calculus of Variations | 17 | ✅ Complete |
-| 35 | Laplace — The Celestial Mechanician & the Probability Theorist | 17 | ✅ Complete |
-| 36 | Legendre — Polynomials, Least Squares & Elliptic Integrals | 17 | ✅ Complete |
-| 37 | Monge — Descriptive Geometry & the École Polytechnique | 17 | ✅ Complete |
-| 38 | Fourier — Heat, Series & the Analysis of Everything | 17 | ✅ Complete |
-| 39 | Germain — Primes, Elasticity & the Pseudonym | 17 | ✅ Complete |
-| 40 | Poncelet — Projective Geometry & the Prisoner's Notebooks | 17 | ✅ Complete |
-| 41 | Gauss — The Prince of Mathematicians | 17 | ✅ Complete |
-| 42 | Poisson — The Distribution, the Equation & the Bracket | 17 | ✅ Complete |
-| 43 | Green — Green's Theorem, Green's Functions & the Self-Taught Miller | 17 | ✅ Complete |
-| 44 | Cauchy — Rigour, Sequences & Complex Analysis | 17 | ✅ Complete |
-| 45 | Lobachevsky — The Copernicus of Geometry | 17 | ✅ Complete |
-| 46 | Bolyai — The Absolute Science of Space | 17 | ✅ Complete |
-| 47 | Abel — The Quintic, Elliptic Functions & a Short Life | 17 | ✅ Complete |
-| 48 | Dirichlet — Primes in Progressions & the Pigeonhole Principle | 17 | ✅ Complete |
-| 49 | Jacobi — Elliptic Functions & the Jacobian | 17 | ✅ Complete |
-| 50 | De Morgan — De Morgan's Laws & the London Mathematical Society | 17 | ✅ Complete |
-| 51 | Hamilton — Quaternions, Mechanics & Brougham Bridge | 17 | ✅ Complete |
-| 52 | Galois — Group Theory, Solvability & the Duel | 17 | ✅ Complete |
-| 53 | Liouville — Transcendental Numbers & the Journal | 17 | ✅ Complete |
-| 54 | Kummer — Ideal Numbers & the Restoration of Unique Factorisation | 17 | ✅ Complete |
-| 55 | Sylvester — Matrices, Invariants & the American School | 17 | ✅ Complete |
-| 56 | Stokes — Stokes' Theorem, Navier-Stokes & Fluid Dynamics | 17 | ✅ Complete |
-| 57 | Cayley — Matrix Algebra & Higher-Dimensional Geometry | 17 | ✅ Complete |
-| 58 | Weierstrass — Epsilon-Delta & the Pathological Function | 17 | ✅ Complete |
-| 59 | Boole — The Laws of Thought & Mathematical Logic | 17 | ✅ Complete |
-| 60 | Hermite — Transcendence, Polynomials & the Quintic | 17 | ✅ Complete |
-| 61 | Kronecker — Constructivism & the God-Given Integers | 17 | ✅ Complete |
-| 62 | Venn — Venn Diagrams & Symbolic Logic | 17 | ✅ Complete |
-| 63 | Riemann — Geometry, the Zeta Function & the Hypothesis | 17 | ✅ Complete |
-| 64 | Dedekind — Cuts, Ideals & the Foundations of Number | 17 | ✅ Complete |
-| 65 | Lie — Continuous Symmetry & the Algebra of Transformations | 17 | ✅ Complete |
-| 66 | Klein — The Erlangen Programme & the Unification of Geometry | 17 | ✅ Complete |
-| 67 | Heaviside — The Step Function, Operational Calculus & Maxwell Reformulated | 17 | ✅ Complete |
-| 68 | Kovalevskaya — The Spinning Top & the First Woman Doctorate | 17 | ✅ Complete |
-| 69 | Cantor — The Infinite, Diagonal Arguments & Set Theory | 17 | ✅ Complete |
-| 70 | Poincaré — Topology, Chaos & the Last Universalist | 17 | ✅ Complete |
-| 71 | Hilbert — The 23 Problems & the Formalist Programme | 17 | ✅ Complete |
-| 72 | Lebesgue — The Integral Reimagined & Measure Theory | 17 | ✅ Complete |
-| 73 | Ramanujan — The Man Who Knew Infinity | 17 | ✅ Complete |
-| 74 | Noether — Symmetry, Conservation & Abstract Algebra | 17 | ✅ Complete |
-| 75 | Von Neumann — Game Theory, Quantum Mechanics & the Computer | 17 | ✅ Complete |
-| 76 | Gödel — Incompleteness & the Limits of Formal Systems | 17 | ✅ Complete |
-| 77 | Turing — Computability, Enigma & the Foundations of AI | 17 | ✅ Complete |
-| 78 | Erdős — The Wandering Mathematician & the Book of Proofs | 17 | ✅ Complete |
-| 79 | Grothendieck — Schemes, Topoi & the Revolution in Algebraic Geometry | 17 | ✅ Complete |
-| 80 | Mandelbrot — Fractals, Self-Similarity & the Geometry of Nature | 17 | ✅ Complete |
-| 81 | Conway — The Game of Life, Surreal Numbers & Moonshine | 17 | ✅ Complete |
-
----
-
 ## Cryptography
 
 Interactive slide decks covering modern cryptographic systems end-to-end — from the underlying mathematics through NIST standards to SystemVerilog RTL and Python implementations.
@@ -228,6 +133,44 @@ Interactive single-page visualisations built with Plotly.js and vanilla HTML/CSS
 | Project | Description |
 |---------|-------------|
 | [Control Theory](https://github.com/BrendanJamesLynskey/Control_Theory) | PID tuning, root locus, Bode plots, Nyquist diagrams, and state-space analysis with real-time simulation |
+
+---
+
+## Historical Mathematicians
+
+81 interactive presentations (17 slides each, all ✅ complete) on the lives, discoveries, and influence of history's greatest mathematicians — covering Bell's *Men of Mathematics*, Struik's *A Concise History*, and Stillwell's *Mathematics and Its History*.
+
+### [Open the Historical Mathematicians Series](https://brendanjameslynskey.github.io/Historical_Mathematicians/)
+
+| # | Mathematician | # | Mathematician | # | Mathematician |
+|---|---|---|---|---|---|
+| 01 | Pythagoras | 28 | Maclaurin | 55 | Sylvester |
+| 02 | Zeno of Elea | 29 | The Bernoullis | 56 | Stokes |
+| 03 | Eudoxus | 30 | Euler | 57 | Cayley |
+| 04 | Euclid | 31 | d'Alembert | 58 | Weierstrass |
+| 05 | Archimedes | 32 | Bayes | 59 | Boole |
+| 06 | Apollonius | 33 | Lambert | 60 | Hermite |
+| 07 | Diophantus | 34 | Lagrange | 61 | Kronecker |
+| 08 | Brahmagupta | 35 | Laplace | 62 | Venn |
+| 09 | Al-Khwarizmi | 36 | Legendre | 63 | Riemann |
+| 10 | Omar Khayyám | 37 | Monge | 64 | Dedekind |
+| 11 | Alhazen | 38 | Fourier | 65 | Lie |
+| 12 | Fibonacci | 39 | Germain | 66 | Klein |
+| 13 | Cardano | 40 | Poncelet | 67 | Heaviside |
+| 14 | Viète | 41 | Gauss | 68 | Kovalevskaya |
+| 15 | Stevin | 42 | Poisson | 69 | Cantor |
+| 16 | Napier | 43 | Green | 70 | Poincaré |
+| 17 | Harriot | 44 | Cauchy | 71 | Hilbert |
+| 18 | Descartes | 45 | Lobachevsky | 72 | Lebesgue |
+| 19 | Fermat | 46 | Bolyai | 73 | Ramanujan |
+| 20 | Pascal | 47 | Abel | 74 | Noether |
+| 21 | Wallis | 48 | Dirichlet | 75 | Von Neumann |
+| 22 | Huygens | 49 | Jacobi | 76 | Gödel |
+| 23 | Newton | 50 | De Morgan | 77 | Turing |
+| 24 | Leibniz | 51 | Hamilton | 78 | Erdős |
+| 25 | De Moivre | 52 | Galois | 79 | Grothendieck |
+| 26 | Taylor | 53 | Liouville | 80 | Mandelbrot |
+| 27 | Stirling | 54 | Kummer | 81 | Conway |
 
 ---
 
