@@ -138,39 +138,42 @@ Interactive single-page visualisations built with Plotly.js and vanilla HTML/CSS
 
 ## Historical Mathematicians
 
-81 interactive presentations (17 slides each, all ✅ complete) on the lives, discoveries, and influence of history's greatest mathematicians — covering Bell's *Men of Mathematics*, Struik's *A Concise History*, and Stillwell's *Mathematics and Its History*.
+88 interactive presentations (17 slides each, all ✅ complete) on the lives, discoveries, and influence of history's greatest mathematicians — covering Bell's *Men of Mathematics*, Struik's *A Concise History*, and Stillwell's *Mathematics and Its History*.
 
 ### [Open the Historical Mathematicians Series](https://brendanjameslynskey.github.io/Historical_Mathematicians/)
 
 | # | Mathematician | # | Mathematician | # | Mathematician |
 |---|---|---|---|---|---|
-| 01 | Pythagoras | 28 | Maclaurin | 55 | Sylvester |
-| 02 | Zeno of Elea | 29 | The Bernoullis | 56 | Stokes |
-| 03 | Eudoxus | 30 | Euler | 57 | Cayley |
-| 04 | Euclid | 31 | d'Alembert | 58 | Weierstrass |
-| 05 | Archimedes | 32 | Bayes | 59 | Boole |
-| 06 | Apollonius | 33 | Lambert | 60 | Hermite |
-| 07 | Diophantus | 34 | Lagrange | 61 | Kronecker |
-| 08 | Brahmagupta | 35 | Laplace | 62 | Venn |
-| 09 | Al-Khwarizmi | 36 | Legendre | 63 | Riemann |
-| 10 | Omar Khayyám | 37 | Monge | 64 | Dedekind |
-| 11 | Alhazen | 38 | Fourier | 65 | Lie |
-| 12 | Fibonacci | 39 | Germain | 66 | Klein |
-| 13 | Cardano | 40 | Poncelet | 67 | Heaviside |
-| 14 | Viète | 41 | Gauss | 68 | Kovalevskaya |
-| 15 | Stevin | 42 | Poisson | 69 | Cantor |
-| 16 | Napier | 43 | Green | 70 | Poincaré |
-| 17 | Harriot | 44 | Cauchy | 71 | Hilbert |
-| 18 | Descartes | 45 | Lobachevsky | 72 | Lebesgue |
-| 19 | Fermat | 46 | Bolyai | 73 | Ramanujan |
-| 20 | Pascal | 47 | Abel | 74 | Noether |
-| 21 | Wallis | 48 | Dirichlet | 75 | Von Neumann |
-| 22 | Huygens | 49 | Jacobi | 76 | Gödel |
-| 23 | Newton | 50 | De Morgan | 77 | Turing |
-| 24 | Leibniz | 51 | Hamilton | 78 | Erdős |
-| 25 | De Moivre | 52 | Galois | 79 | Grothendieck |
-| 26 | Taylor | 53 | Liouville | 80 | Mandelbrot |
-| 27 | Stirling | 54 | Kummer | 81 | Conway |
+| 01 | Pythagoras | 31 | Leibniz | 61 | Kummer |
+| 02 | Zeno of Elea | 32 | De Moivre | 62 | Sylvester |
+| 03 | Eudoxus | 33 | Taylor | 63 | Stokes |
+| 04 | Euclid | 34 | Stirling | 64 | Cayley |
+| 05 | Archimedes | 35 | Maclaurin | 65 | Weierstrass |
+| 06 | Apollonius | 36 | The Bernoullis | 66 | Boole |
+| 07 | Diophantus | 37 | Euler | 67 | Hermite |
+| 08 | Brahmagupta | 38 | d'Alembert | 68 | Kronecker |
+| 09 | Al-Khwarizmi | 39 | Bayes | 69 | Venn |
+| 10 | Omar Khayyám | 40 | Lambert | 70 | Riemann |
+| 11 | Alhazen | 41 | Lagrange | 71 | Dedekind |
+| 12 | Buridan | 42 | Laplace | 72 | Lie |
+| 13 | Oresme | 43 | Legendre | 73 | Klein |
+| 14 | Fibonacci | 44 | Monge | 74 | Heaviside |
+| 15 | Pacioli | 45 | Fourier | 75 | Kovalevskaya |
+| 16 | Del Ferro | 46 | Germain | 76 | Cantor |
+| 17 | Tartaglia | 47 | Poncelet | 77 | Poincaré |
+| 18 | Cardano | 48 | Gauss | 78 | Hilbert |
+| 19 | Ferrari | 49 | Poisson | 79 | Lebesgue |
+| 20 | Bombelli | 50 | Green | 80 | Ramanujan |
+| 21 | Viète | 51 | Cauchy | 81 | Noether |
+| 22 | Stevin | 52 | Lobachevsky | 82 | Von Neumann |
+| 23 | Napier | 53 | Bolyai | 83 | Gödel |
+| 24 | Harriot | 54 | Abel | 84 | Turing |
+| 25 | Descartes | 55 | Dirichlet | 85 | Erdős |
+| 26 | Fermat | 56 | Jacobi | 86 | Grothendieck |
+| 27 | Pascal | 57 | De Morgan | 87 | Mandelbrot |
+| 28 | Wallis | 58 | Hamilton | 88 | Conway |
+| 29 | Huygens | 59 | Galois | | |
+| 30 | Newton | 60 | Liouville | | |
 
 ---
 
